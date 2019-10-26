@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bla bla
+=======
+isso que tem que dar
+>>>>>>> teste2
